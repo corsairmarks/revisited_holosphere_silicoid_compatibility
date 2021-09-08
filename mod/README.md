@@ -1,14 +1,36 @@
 # Overview
 
-Summary
+This is a compatibility patch between two other mods: [Animated Holosphere Portraits: Revisited](https://steamcommunity.com/sharedfiles/filedetails/?id=2592592503) and [Animated Silicoid Portraits: Revisited](https://steamcommunity.com/sharedfiles/filedetails/?id=2579736379).  Unless you are using both of those mods together, you do not need this mod.
+
+If you are using [Silfae's Portraits: Revisited](https://steamcommunity.com/sharedfiles/filedetails/?id=2596417938) (the mod, not collection), you do **not** need this patch.
 
 # Changes
 
-Notes
+Combines to Pop strata files from Holosphere and Silicoids Revisited in order for both mods to have their custom Pop upkeep applied correctly.
 
 ## Compatibility
 
-Notes
+This mod overwrites all of the default `pop_category` (Pop strata) files.  It is not compatible with other mods that want to alter Pop strata (other than the two mods it is explicitly intended to patch).  It's likely to break any time Stellaris makes changes to the underlying Pop strata, such as the anticipated changes for the upcoming 3.1 'Lem' minor release.  These files are completely overwritten:
+
+* `common/pop_categories/00_social_classes.txt`
+* `common/pop_categories/01_gestalt_drones.txt`
+* `common/pop_categories/02_other_categories.txt`
+
+
+### Dependencies
+
+In order for this mod to function, you **must** install these mods and load them before this one:
+
+* [Holosphere Rising](https://steamcommunity.com/sharedfiles/filedetails/?id=868965217) by Silfae
+* [Animated Silicoid Portraits](https://steamcommunity.com/sharedfiles/filedetails/?id=1160316076) by Silfae
+* [Silfae's city sets updated](https://steamcommunity.com/sharedfiles/filedetails/?id=2247427791) by Nozeminer
+* [Animated Holosphere Portraits: Revisited](https://steamcommunity.com/sharedfiles/filedetails/?id=2592592503) by me
+* [Animated Silicoid Portraits: Revisited](https://steamcommunity.com/sharedfiles/filedetails/?id=2579736379) by me
+* [Full Military Service for Battle Thralls](https://steamcommunity.com/sharedfiles/filedetails/?id=2496357447) by me
+
+### When to Install
+
+This mod should be added before the game has started.  If you remove it from a game in progress, Pops may have incorrect or missing upkeep costs.
 
 ## Changelog
 
@@ -16,7 +38,7 @@ Notes
 
 ## Source Code
 
-Hosted on [GitHub]()
+Hosted on [GitHub](https://github.com/corsairmarks/revisited_holosphere_silicoid_compatibility)
 
 ### Development Notes
 
