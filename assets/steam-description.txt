@@ -10,13 +10,15 @@ Combines to Pop strata files from Holosphere and Silicoids Revisited in order fo
 
 [h2]Compatibility[/h2]
 
-This mod overwrites all of the default [b]pop_category[/b] (Pop strata) files.  It is not compatible with other mods that want to alter Pop strata (other than the two mods it is explicitly intended to patch).  It's likely to break any time Stellaris makes changes to the underlying Pop strata, such as the anticipated changes for the upcoming 3.1 'Lem' minor release.  These files are completely overwritten:
+This mod overwrites all of the default [b]pop_category[/b] (Pop strata) files.  It is not compatible with other mods that want to alter Pop strata (other than the two mods it is explicitly intended to patch).  It's likely to break any time Stellaris makes changes to the underlying Pop strata.  These files are completely overwritten:
 
 [list]
 [*][b]common/pop_categories/00_social_classes.txt[/b]
 [*][b]common/pop_categories/01_gestalt_drones.txt[/b]
 [*][b]common/pop_categories/02_other_categories.txt[/b]
 [/list]
+
+Built for Stellaris version 3.1.1 "Lem."  Not compatible with achievements.
 
 [h3]Dependencies[/h3]
 
