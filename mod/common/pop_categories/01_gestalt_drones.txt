@@ -34,6 +34,13 @@ complex_drone = {
 		influence = 10
 	}
 
+	triggered_planet_modifier = {
+		potential = {
+			can_assemble_budding_pop = yes
+		}
+		planet_pop_assembly_organic_add = @plantoid_budding_rate
+	}
+
 	unemployment_resources = {
 		category = unemployment_resources
 	}
@@ -42,12 +49,25 @@ complex_drone = {
 		category = pop_category_drones
 
 		upkeep = {
+			trigger = { has_phototrophic_energy_upkeep = yes }
+			energy = @living_standard_phototrophic_normal
+		}
+
+		upkeep = {
 			trigger = {
 				is_organic_species = yes
+				is_phototrophic = no
 				is_lithoid = no
 				is_holofrixit = no
 			}
 			food = @living_standard_food_normal
+		}
+
+		upkeep = {
+			trigger = {
+				is_phototrophic = yes
+			}
+			food = @living_standard_phototrophic_normal
 		}
 
 		upkeep = {
@@ -153,6 +173,13 @@ simple_drone = {
 		influence = 10
 	}
 
+	triggered_planet_modifier = {
+		potential = {
+			can_assemble_budding_pop = yes
+		}
+		planet_pop_assembly_organic_add = @plantoid_budding_rate
+	}
+
 	unemployment_resources = {
 		category = unemployment_resources
 		produces = {
@@ -182,12 +209,25 @@ simple_drone = {
 		category = pop_category_drones
 
 		upkeep = {
+			trigger = { has_phototrophic_energy_upkeep = yes }
+			energy = @living_standard_phototrophic_normal
+		}
+
+		upkeep = {
 			trigger = {
 				is_organic_species = yes
+				is_phototrophic = no
 				is_lithoid = no
 				is_holofrixit = no
 			}
 			food = @living_standard_food_normal
+		}
+
+		upkeep = {
+			trigger = {
+				is_phototrophic = yes
+			}
+			food = @living_standard_phototrophic_normal
 		}
 
 		upkeep = {
@@ -199,10 +239,10 @@ simple_drone = {
 			trigger = {
 				is_silicoid_species = yes
 				NOT = { has_trait = trait_electroid }
-				}
+			}
 			minerals = @living_standard_minerals_normal_silicoid
 			food = @living_standard_food_normal_silicoid
-			}
+		}
 
 		upkeep = {
 			trigger = {
@@ -223,7 +263,6 @@ simple_drone = {
 			}
 			energy = @living_standard_energy_normal
 		}
-
 		upkeep = {
 			trigger = {
 				is_holofrixit = yes
