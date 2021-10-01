@@ -16,7 +16,7 @@ This mod overwrites all of the default `pop_category` (Pop strata) files.  It is
 * `common/pop_categories/01_gestalt_drones.txt`
 * `common/pop_categories/02_other_categories.txt`
 
-Built for Stellaris version 3.1.1 "Lem."  Not compatible with achievements.
+Built for Stellaris version 3.1.2 "Lem."  Not compatible with achievements.
 
 ### Dependencies
 
@@ -37,6 +37,7 @@ This mod should be added before the game has started.  If you remove it from a g
 
 * 1.0.0 Initial version
 * 2.0.0 Update for Stellaris version 3.1 "Lem"
+* 2.0.1 Verify compatibility with Stellaris 3.1.2 - no code changes
 
 ## Source Code
 
