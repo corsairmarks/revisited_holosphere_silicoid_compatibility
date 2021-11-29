@@ -18,7 +18,7 @@ This mod overwrites all of the default [b]pop_category[/b] (Pop strata) files.  
 [*][b]common/pop_categories/02_other_categories.txt[/b]
 [/list]
 
-Built for Stellaris version 3.1.2 "Lem."  Not compatible with achievements.
+Built for Stellaris version 3.2.2 "Herbert."  Not compatible with achievements.
 
 [h3]Dependencies[/h3]
 
