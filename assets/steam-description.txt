@@ -1,48 +1,37 @@
 [h1]Overview[/h1]
-
 This is a compatibility patch between two other mods: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2592592503]Animated Holosphere Portraits: Revisited[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2579736379]Animated Silicoid Portraits: Revisited[/url].  Unless you are using both of those mods together, you do not need this mod.
 
 If you are using [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2596417938]Silfae's Portraits: Revisited[/url] (the mod, not collection), you do [b]not[/b] need this patch.
 
 [h1]Changes[/h1]
-
 Combines to Pop strata files from Holosphere and Silicoids Revisited in order for both mods to have their custom Pop upkeep applied correctly.
 
 [h2]Compatibility[/h2]
-
 This mod overwrites all of the default [b]pop_category[/b] (Pop strata) files.  It is not compatible with other mods that want to alter Pop strata (other than the two mods it is explicitly intended to patch).  It's likely to break any time Stellaris makes changes to the underlying Pop strata.  These files are completely overwritten:
-
 [list]
 [*][b]common/pop_categories/00_social_classes.txt[/b]
 [*][b]common/pop_categories/01_gestalt_drones.txt[/b]
 [*][b]common/pop_categories/02_other_categories.txt[/b]
 [/list]
-
-Built for Stellaris version 3.2.2 "Herbert."  Not compatible with achievements.
+Built for Stellaris version 3.3 "Libra."  Not compatible with achievements.
 
 [h3]Dependencies[/h3]
-
 In order for this mod to function, you [b]must[/b] install these mods and load them before this one:
-
 [list]
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=868965217]Holosphere Rising[/url] by Silfae
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1160316076]Animated Silicoid Portraits[/url] by Silfae
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2247427791]Silfae's city sets updated[/url] by Nozeminer
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2592592503]Animated Holosphere Portraits: Revisited[/url] by me
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2579736379]Animated Silicoid Portraits: Revisited[/url] by me
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2496357447]Full Military Service for Battle Thralls[/url] by me
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2496357447]Special Leadership Privileges for Battle Thralls and Bio-Trophies[/url] by me
 [/list]
-
 [h3]When to Install[/h3]
-
 This mod should be added before the game has started.  If you remove it from a game in progress, Pops may have incorrect or missing upkeep costs.
 
 [h2]Changelog[/h2]
-
 See [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2596642632]Change Notes[/url]
 
 [h2]Source Code[/h2]
-
 Hosted on [url=https://github.com/corsairmarks/revisited_holosphere_silicoid_compatibility]GitHub[/url]
 
 [url=https://discord.gg/bHVez2C][img]https://i.imgur.com/4Und3QN.png[/img][/url]

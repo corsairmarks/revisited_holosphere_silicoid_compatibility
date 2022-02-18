@@ -16,7 +16,7 @@ This mod overwrites all of the default `pop_category` (Pop strata) files.  It is
 * `common/pop_categories/01_gestalt_drones.txt`
 * `common/pop_categories/02_other_categories.txt`
 
-Built for Stellaris version 3.2.2 "Herbert."  Not compatible with achievements.
+Built for Stellaris version 3.3 "Libra."  Not compatible with achievements.
 
 ### Dependencies
 
@@ -27,7 +27,7 @@ In order for this mod to function, you **must** install these mods and load them
 * [Silfae's city sets updated](https://steamcommunity.com/sharedfiles/filedetails/?id=2247427791) by Nozeminer
 * [Animated Holosphere Portraits: Revisited](https://steamcommunity.com/sharedfiles/filedetails/?id=2592592503) by me
 * [Animated Silicoid Portraits: Revisited](https://steamcommunity.com/sharedfiles/filedetails/?id=2579736379) by me
-* [Full Military Service for Battle Thralls](https://steamcommunity.com/sharedfiles/filedetails/?id=2496357447) by me
+* [Special Leadership Privileges for Battle Thralls and Bio-Trophies](https://steamcommunity.com/sharedfiles/filedetails/?id=2496357447) by me
 
 ### When to Install
 
@@ -40,6 +40,7 @@ This mod should be added before the game has started.  If you remove it from a g
 * 2.0.1 Verify compatibility with Stellaris version 3.1.2 - no code changes
 * 2.0.2 Verify compatibility with Stellaris version 3.2.2 "Herbert"
 	* Add one missing Holofrixit trigger
+* 3.0.0 Update for Stellaris version 3.3 "Libra"
 
 ## Source Code
 
