@@ -16,7 +16,7 @@ This mod overwrites all of the default `pop_category` (Pop strata) files.  It is
 * `common/pop_categories/01_gestalt_drones.txt`
 * `common/pop_categories/02_other_categories.txt`
 
-Built for Stellaris version 3.3 "Libra."  Not compatible with achievements.
+Built for Stellaris version 3.4 "Cepheus."  Not compatible with achievements.
 
 ### Dependencies
 
@@ -41,6 +41,7 @@ This mod should be added before the game has started.  If you remove it from a g
 * 2.0.2 Verify compatibility with Stellaris version 3.2.2 "Herbert"
 	* Add one missing Holofrixit trigger
 * 3.0.0 Update for Stellaris version 3.3 "Libra"
+* 4.0.0 Update for Stellaris version 3.4 "Cepheus"
 
 ## Source Code
 
