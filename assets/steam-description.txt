@@ -1,3 +1,5 @@
+[b][i]DEPRECATED:[/i][/b] As of Stellaris version 3.6 "Orion," there are no longer any conflicts between [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2592592503]Animated Holosphere Portraits: Revisited[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2579736379]Animated Silicoid Portraits: Revisited[/url]. Do not use this patch!
+
 [h1]Overview[/h1]
 This is a compatibility patch between two other mods: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2592592503]Animated Holosphere Portraits: Revisited[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2579736379]Animated Silicoid Portraits: Revisited[/url].  Unless you are using both of those mods together, you do not need this mod.
 

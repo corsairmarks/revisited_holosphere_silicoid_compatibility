@@ -1,3 +1,5 @@
+**_DEPRECATED:_** As of Stellaris version 3.6 "Orion," there are no longer any conflicts between [Animated Holosphere Portraits: Revisited](https://steamcommunity.com/sharedfiles/filedetails/?id=2592592503) and [Animated Silicoid Portraits: Revisited](https://steamcommunity.com/sharedfiles/filedetails/?id=2579736379). Do not use this patch!
+
 # Overview
 
 This is a compatibility patch between two other mods: [Animated Holosphere Portraits: Revisited](https://steamcommunity.com/sharedfiles/filedetails/?id=2592592503) and [Animated Silicoid Portraits: Revisited](https://steamcommunity.com/sharedfiles/filedetails/?id=2579736379).  Unless you are using both of those mods together, you do not need this mod.
@@ -42,6 +44,7 @@ This mod should be added before the game has started.  If you remove it from a g
 	* Add one missing Holofrixit trigger
 * 3.0.0 Update for Stellaris version 3.3 "Libra"
 * 4.0.0 Update for Stellaris version 3.4 "Cepheus"
+* 6.0.0 Update for Stellaris version 3.6 "Orion" (and changes from version 3.5 "Fornax")
 
 ## Source Code
 
