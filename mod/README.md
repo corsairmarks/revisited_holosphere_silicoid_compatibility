@@ -44,7 +44,7 @@ This mod should be added before the game has started.  If you remove it from a g
 	* Add one missing Holofrixit trigger
 * 3.0.0 Update for Stellaris version 3.3 "Libra"
 * 4.0.0 Update for Stellaris version 3.4 "Cepheus"
-* 6.0.0 Update for Stellaris version 3.6 "Orion" (and changes from version 3.5 "Fornax")
+* 4.0.1 Mark as deprecated - unnecessary in Stellaris 3.6 "Orion" and higher
 
 ## Source Code
 
